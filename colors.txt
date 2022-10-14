@@ -1,0 +1,7 @@
+pastel hex codes
+#FF9AA2 - red
+#FFB7B2 - carrot
+#FFDAC1 - orange
+#E2F0CB - yellow green
+#B5EAD7 - dark green
+#C7CEEA - purple
