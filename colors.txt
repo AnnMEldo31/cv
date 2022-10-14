@@ -5,3 +5,11 @@ pastel hex codes
 #E2F0CB - yellow green
 #B5EAD7 - dark green
 #C7CEEA - purple
+
+non-pastel LIGHT counterparts
+#FE797B - red
+#FFB750 - orange
+#FFEA56 - yellow
+#8FE968 - green
+#36CEDC - blue
+#A587CA - purple
