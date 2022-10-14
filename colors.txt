@@ -1,9 +1,0 @@
-neon violet palette
-#08011f - black
-#3a01da
-#0000ff - blue
-#9307fe
-#c819c8
-#dda0dd - plum
-#dec1f4
-#ffffff - white
