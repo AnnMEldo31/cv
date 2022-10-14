@@ -1,15 +1,9 @@
-pastel hex codes
-#FF9AA2 - red
-#FFB7B2 - carrot
-#FFDAC1 - orange
-#E2F0CB - yellow green
-#B5EAD7 - dark green
-#C7CEEA - purple
-
-non-pastel LIGHT counterparts
-#FE797B - red
-#FFB750 - orange
-#FFEA56 - yellow
-#8FE968 - green
-#36CEDC - blue
-#A587CA - purple
+neon violet palette
+#08011f - black
+#3a01da
+#0000ff - blue
+#9307fe
+#c819c8
+#dda0dd - plum
+#dec1f4
+#ffffff - white
